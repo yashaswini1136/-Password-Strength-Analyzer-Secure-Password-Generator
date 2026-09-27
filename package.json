@@ -3,6 +3,11 @@
   "private": true,
   "version": "1.0.0",
   "description": "Password Strength Analyzer & Secure Password Generator – a privacy-focused cybersecurity tool for password analysis and secure password generation.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yashaswini1136/-Password-Strength-Analyzer-Secure-Password-Generator.git"
+  },
+  "homepage": "https://github.com/yashaswini1136/-Password-Strength-Analyzer-Secure-Password-Generator#readme",
   "type": "module",
   "scripts": {
     "dev": "vite",
