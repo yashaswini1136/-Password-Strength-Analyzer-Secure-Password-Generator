@@ -50,7 +50,7 @@
 
 ### 6. Educational Guide & Demonstrations
 * Comprehensive security reference covering Multi-Factor Authentication (MFA/FIDO2), credential stuffing, passphrases, and offline GPU cracking.
-* Interactive demo benchmark presets (`password123`, `Harshith@123`, `River!Moon7$Cloud#`, and randomized strings) with clear safety notices.
+* Interactive demo benchmark presets (`password123`, `AlexMorgan@123`, `River!Moon7$Cloud#`, and randomized strings) with clear safety notices.
 
 ---
 
@@ -73,7 +73,7 @@
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/yashaswini1136/-Password-Strength-Analyzer-Secure-Password-Generator.git
+git clone https://github.com/<username>/-Password-Strength-Analyzer-Secure-Password-Generator.git
 
 # Enter project directory
 cd -Password-Strength-Analyzer-Secure-Password-Generator

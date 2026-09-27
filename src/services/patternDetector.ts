@@ -276,7 +276,7 @@ function detectDatePatterns(password: string): DetectedPattern | null {
 }
 
 /**
- * Detects common password structures (e.g. Capital word + numbers + special char, e.g. Harshith@123, Password123)
+ * Detects common password structures (e.g. Capital word + numbers + special char, e.g. AlexMorgan@123, Password123)
  */
 function detectPredictableStructure(password: string): DetectedPattern[] {
   const patterns: DetectedPattern[] = [];

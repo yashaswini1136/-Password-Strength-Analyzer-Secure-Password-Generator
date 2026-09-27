@@ -17,9 +17,9 @@ export const DemoEducational: React.FC<DemoEducationalProps> = ({ onSelectExampl
     },
     {
       level: 'Medium',
-      sample: 'Harshith@123',
+      sample: 'AlexMorgan@123',
       scoreText: '38/100',
-      description: 'Classic policy compliance: Name + special + sequential 123. High pattern risk.',
+      description: 'Classic policy compliance: Fictional name + special + sequential 123. High pattern risk.',
       colorClass: 'border-amber-500/30 bg-amber-500/10 text-amber-300 hover:border-amber-400',
       badgeClass: 'bg-amber-500/20 text-amber-300 border-amber-500/40',
     },
